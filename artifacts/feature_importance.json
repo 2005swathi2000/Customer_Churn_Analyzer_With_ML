@@ -1,0 +1,186 @@
+[
+  {
+    "feature": "Contract_Month-to-month",
+    "importance": 0.5033
+  },
+  {
+    "feature": "InternetService_Fiber optic",
+    "importance": 0.0955
+  },
+  {
+    "feature": "OnlineSecurity_No",
+    "importance": 0.045
+  },
+  {
+    "feature": "TechSupport_No",
+    "importance": 0.0326
+  },
+  {
+    "feature": "StreamingMovies_Yes",
+    "importance": 0.0316
+  },
+  {
+    "feature": "InternetService_DSL",
+    "importance": 0.0283
+  },
+  {
+    "feature": "Contract_One year",
+    "importance": 0.0218
+  },
+  {
+    "feature": "PaymentMethod_Electronic check",
+    "importance": 0.0217
+  },
+  {
+    "feature": "tenure",
+    "importance": 0.0194
+  },
+  {
+    "feature": "Contract_Two year",
+    "importance": 0.0176
+  },
+  {
+    "feature": "PhoneService_No",
+    "importance": 0.0142
+  },
+  {
+    "feature": "DeviceProtection_Yes",
+    "importance": 0.0136
+  },
+  {
+    "feature": "MultipleLines_Yes",
+    "importance": 0.0132
+  },
+  {
+    "feature": "MonthlyCharges",
+    "importance": 0.0117
+  },
+  {
+    "feature": "StreamingTV_No",
+    "importance": 0.0108
+  },
+  {
+    "feature": "PaperlessBilling_No",
+    "importance": 0.0106
+  },
+  {
+    "feature": "OnlineBackup_Yes",
+    "importance": 0.0102
+  },
+  {
+    "feature": "TotalCharges",
+    "importance": 0.0095
+  },
+  {
+    "feature": "OnlineBackup_No",
+    "importance": 0.0094
+  },
+  {
+    "feature": "MultipleLines_No",
+    "importance": 0.0094
+  },
+  {
+    "feature": "StreamingMovies_No",
+    "importance": 0.009
+  },
+  {
+    "feature": "PaymentMethod_Mailed check",
+    "importance": 0.0083
+  },
+  {
+    "feature": "PaymentMethod_Bank transfer (automatic)",
+    "importance": 0.008
+  },
+  {
+    "feature": "Dependents_No",
+    "importance": 0.0071
+  },
+  {
+    "feature": "OnlineSecurity_Yes",
+    "importance": 0.0068
+  },
+  {
+    "feature": "Partner_No",
+    "importance": 0.0062
+  },
+  {
+    "feature": "gender_Female",
+    "importance": 0.0058
+  },
+  {
+    "feature": "SeniorCitizen_No",
+    "importance": 0.0056
+  },
+  {
+    "feature": "TechSupport_Yes",
+    "importance": 0.0046
+  },
+  {
+    "feature": "PaymentMethod_Credit card (automatic)",
+    "importance": 0.0041
+  },
+  {
+    "feature": "StreamingTV_Yes",
+    "importance": 0.0039
+  },
+  {
+    "feature": "DeviceProtection_No",
+    "importance": 0.0011
+  },
+  {
+    "feature": "OnlineBackup_No internet service",
+    "importance": 0.0
+  },
+  {
+    "feature": "gender_Male",
+    "importance": 0.0
+  },
+  {
+    "feature": "SeniorCitizen_Yes",
+    "importance": 0.0
+  },
+  {
+    "feature": "Partner_Yes",
+    "importance": 0.0
+  },
+  {
+    "feature": "PaperlessBilling_Yes",
+    "importance": 0.0
+  },
+  {
+    "feature": "Dependents_Yes",
+    "importance": 0.0
+  },
+  {
+    "feature": "PhoneService_Yes",
+    "importance": 0.0
+  },
+  {
+    "feature": "MultipleLines_No phone service",
+    "importance": 0.0
+  },
+  {
+    "feature": "StreamingMovies_No internet service",
+    "importance": 0.0
+  },
+  {
+    "feature": "TechSupport_No internet service",
+    "importance": 0.0
+  },
+  {
+    "feature": "InternetService_No",
+    "importance": 0.0
+  },
+  {
+    "feature": "StreamingTV_No internet service",
+    "importance": 0.0
+  },
+  {
+    "feature": "OnlineSecurity_No internet service",
+    "importance": 0.0
+  },
+  {
+    "feature": "DeviceProtection_No internet service",
+    "importance": 0.0
+  }
+]
