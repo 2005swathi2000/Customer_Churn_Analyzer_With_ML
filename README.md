@@ -119,6 +119,15 @@ Models were trained on 5,634 stratified training records and evaluated on 1,409 
 - **False Negatives (FN):** 79 churners missed
 - **True Positives (TP):** 295 churners successfully caught (**78.88% Recall**)
 
+### Visual Evaluation Artifacts
+| Test Set Confusion Matrix (N=1,409) | ROC & Precision-Recall Curves |
+| :---: | :---: |
+| ![Confusion Matrix](images/confusion_matrix.png) | ![ROC and PR Curves](images/roc_pr_curves.png) |
+
+| Feature Importance Ranking | EDA Churn Distributions |
+| :---: | :---: |
+| ![Feature Importance](images/feature_importance.png) | ![EDA Distributions](images/eda_churn_distributions.png) |
+
 ---
 
 ## 6. Top 8 Churn Predictive Features (Feature Importance)

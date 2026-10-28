@@ -96,3 +96,4 @@ plt.savefig(os.path.join(img_dir, 'eda_churn_distributions.png'), dpi=200)
 plt.close()
 
 print('All 4 ML output images generated successfully in:', img_dir)
+
